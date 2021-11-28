@@ -22,6 +22,7 @@ My hard-skills:
 - HTML
 - SASS & CSS
 - React Router
+- Git
 
 I'm a Front-end Developer working with React. Started to learn React for about a half of year ago.
 Firstly I was an HTML-layout designer. Started to learn HTML and CSS in 9'th grade.
@@ -29,7 +30,7 @@ In 11'th grade I started to learn JS deeply and decided to start learning React.
 Bought a course on Udemy, watched videos on YouTube and readed articles on Habr.
 Now I'm studying at BSTU(Belarussian State Technological University), IT faculty, Software Engineering(in web) on paid base
 
-🔬I have an experience with jQuery, AJAX, SASS, Figma, Photoshop, Avocode, Zeplin, Fetch, async/await, Redux, Router-DOM, Redux-thunk.
+🔬I have an experience with jQuery, AJAX, SASS, Figma, Photoshop, Avocode, Zeplin, Fetch, async/await, Redux, Router-DOM, Redux-thunk, Git.
 
 🤖Tried different languages like Python, Ruby on Rails, PHP, C++, C#, Assembler, Swift, Java.
 
