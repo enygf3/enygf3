@@ -1,6 +1,19 @@
 ### Hi, I'm Artem 👋
 ### Junior Front-end Developer(React)
 
+
+### My statistics 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=enygf3&show_icons=true&theme=tokyonight" alt="enygf3"/></p> 
+<!--radical, merko, tokyonight--> 
+ 
+### Languages 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enygf3&layout=compact&theme=tokyonight" alt="enygf3"/></p> 
+ 
+### Other 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=enygf3" alt="enygf3"/></p> 
+<!--radical, merko, tokyonight-->
+
+
 Some short info:
 
 - 🔭 I’m currently looking for a job. 
