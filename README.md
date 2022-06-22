@@ -18,7 +18,6 @@ Some short info:
 
 - 🔭 I’m not currently looking for a job. 
 - 🌱 I’m currently learning React + Redux
-- 👯 I’m collaborating on Kubic-Store(eCommerce App)
 - 💫 Glad to be invited to collaborate
 
 My soft-skills:
