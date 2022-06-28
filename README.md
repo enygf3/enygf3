@@ -45,3 +45,7 @@ Now I'm studying at BSTU(Belarussian State Technological University), IT faculty
 🔬I have an experience with jQuery, AJAX, SASS, Figma, Photoshop, Avocode, Zeplin, Fetch, async/await, Redux, Router-DOM, Redux-thunk, Git.
 
 🤖Tried different languages like Python, Ruby on Rails, PHP, C++, C#, Assembler, Swift, Java.
+
+Contacts:
+- artem.enygf@gmail.com
+- @enygfx (Telegram)
