@@ -1,5 +1,5 @@
 ### Hi, I'm Artem 👋
-### Junior Front-end Developer(React)
+### Front-end Developer(React)
 
  
 ### Languages 
