@@ -3,7 +3,7 @@
 
  
 ### Languages 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enygf3&layout=compact&theme=tokyonight" alt="enygf3"/></p> 
+[![Enygf3's GitHub stats](https://github-readme-stats.vercel.app/api?username=enygf3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My statistics 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=enygf3&show_icons=true&theme=tokyonight" alt="enygf3"/></p> 
