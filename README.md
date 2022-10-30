@@ -3,10 +3,10 @@
 
  
 ### Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enygf3&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enygf3&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My statistics 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=enygf3&show_icons=true&theme=tokyonight" alt="enygf3"/></p> 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=enygf3&show_icons=true&theme=tokyonight&count_private=true" alt="enygf3"/></p> 
 <!--radical, merko, tokyonight--> 
  
 ### Views 
