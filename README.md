@@ -17,7 +17,7 @@
 Some short info:
 
 - 🔭 I’m currently looking for a job. 
-- 🌱 I’m currently learning React + Redux
+- 🌱 I’m currently learning Python + FastAPI + Django
 - 💫 Glad to be invited to collaborate
 
 My soft-skills:
